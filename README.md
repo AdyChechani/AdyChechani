@@ -1,9 +1,9 @@
 # Hi!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Aditya Chechani</h3>
 - 🎓 I'm  a student pursuing my Bachelors in Computer Science and Engineering.  <br>
-- 🌅 I'm looking forward to become an Open Source contributor. <br>
-- ✨ I'm really enthusiastic about learning and applying the concepts of Machine learning. <br>
-- 🎯 2021 Goals: Start Contributting in Open Source. <br>
-- 🌱 I’m currently learning about Data Structures and Algorithms & basics of AI.
+- 🌅 I'm looking forward to work with you. <br>
+- ✨ Teaching the machine how to learn. <br>
+- 🎯 2022 Goals: Start Contributting in Open Source. <br>
+- 🌱 I’m currently exploring Natural Language Processing.
 <p>
   <h3>Connect with me: </h3>
 
