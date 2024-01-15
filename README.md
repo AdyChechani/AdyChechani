@@ -2,8 +2,6 @@
 - 🎓 I'm  a student pursuing my Bachelors in Computer Science and Engineering.  <br>
 - 🌅 I'm looking forward to work with you. <br>
 - ✨ Teaching the machine how to learn. <br>
-- 🎯 2022 Goals: Start Contributting in Open Source. <br>
-- 🌱 I’m currently exploring Natural Language Processing.
 <p>
   <h3>Connect with me: </h3>
 
